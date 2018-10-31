@@ -12,7 +12,7 @@
 9. Two or more races: 1%
 
 ## Station Usage Statistics
-![alt text](broadwayjunctionentries.png)
+![alt text](bjentries.png)
 ![alt text](broadwayjunctionexits.png)
 ![alt text](broadwayjunctiondifference.png)
 
